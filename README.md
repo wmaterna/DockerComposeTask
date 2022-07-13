@@ -1,5 +1,5 @@
 # DockerComposeTask
 
-Docker-compose to projects:
-backend: https://github.com/wmaterna/e-commerce-project-backend
-frontend: https://github.com/wmaterna/e-commerce-project-frontend
+Docker-compose to projects: <br />
+backend: https://github.com/wmaterna/e-commerce-project-backend <br />
+frontend: https://github.com/wmaterna/e-commerce-project-frontend <br />
